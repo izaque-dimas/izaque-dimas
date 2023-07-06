@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil Izaque Dimas 😁
 
  <div>
-   <a href="https://github.com/Izaque-dimas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izaque-dimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaque-dimas&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/izaque-dimas">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaque-dimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaque-dimas&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,15 +14,15 @@
  
  <br>
  
-  
+  ### Me segue nas redes abaixo!
  
 <div> 
 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href =""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Izaque-dimas/Izaque-dimas/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/izaque-dimas/izaque-dimas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
