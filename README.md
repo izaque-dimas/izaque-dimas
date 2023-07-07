@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Izaque Dimas 😁
+## Oi, me chamo Izaque Dimas. Bem vindo(a).😁
 
  <div>
    <a href="https://github.com/izaque-dimas">
